@@ -1,0 +1,123 @@
+id,priority,default_code,standard_price,product_brand_id,name,product_template_variant_value_ids,lst_price,product_unit_code,barcode
+__export__.product_product_15580_51a9c9b9,0,G2011,148.00,NOGAN,Nogan Gravel MTB FUN Al 20 inch Electric Yellow ,,319.00,20-20,8719636016355
+__export__.product_product_15581_aac941b3,0,G2012,148.00,NOGAN,Nogan Gravel MTB FUN Al 20 inch Ocean Blue,,319.00,20-20,8719636016362
+__export__.product_product_15582_332adf62,0,G2021,142.00,NOGAN,Nogan Gravel MTB FUN Al 20 inch Fresh White,,309.00,20-20,8719636016379
+__export__.product_product_15583_9f28a5e0,0,G2031,115.99,NOGAN,Nogan Gravel MTB FUN 20 inch Signal Red,,279.00,20-20,8719636016386
+__export__.product_product_15584_d26c0180,0,G2411,133.00,NOGAN,Nogan Gravel MTB GO 24 inch Ocean Blue,,289.00,24-24,8719636016409
+__export__.product_product_15585_754e4f74,0,G2412,133.00,NOGAN,Nogan Gravel MTB GO 24 inch Signal Red,,289.00,24-24,8719636016416
+__export__.product_product_15586_b638dd18,0,G2421,138.00,NOGAN,Nogan Gravel MTB GO 24 inch Susp Ocean Blue,,309.00,24-24,8719636016423
+__export__.product_product_15587_6612bfbb,0,G2422,138.00,NOGAN,Nogan Gravel MTB GO 24 inch Susp Signal Red,,309.00,24-24,8719636016430
+__export__.product_product_15588_e9964ecc,0,G2423,138.00,NOGAN,Nogan Gravel MTB GO 24 inch Susp Electric Yellow,,309.00,24-24,8719636016447
+__export__.product_product_15589_aeb38840,0,G2431,186.51,NOGAN,Nogan Gravel MTB PRO 24 inch Sky Blue,,369.00,24-24,8719636016508
+__export__.product_product_15590_c0e122af,0,G2432,186.51,NOGAN,Nogan Gravel MTB PRO 24 inch Graphite Grey,,369.00,24-24,8719636016515
+__export__.product_product_15591_2c80d2bc,0,G2611,133.00,NOGAN,Nogan Gravel MTB GO 26 inch Ocean Blue,,299.00,26-26,8719636016454
+__export__.product_product_15592_3138d5b6,0,G2612,133.00,NOGAN,Nogan Gravel MTB GO 26 inch Signal Red,,299.00,26-26,8719636016461
+__export__.product_product_15593_47e04a50,0,G2621,139.00,NOGAN,Nogan Gravel MTB GO 26 inch Susp Ocean Blue,,309.00,26-26,8719636016478
+__export__.product_product_15594_081d5945,0,G2622,139.00,NOGAN,Nogan Gravel MTB GO 26 inch Susp Signal Red,,309.00,26-26,8719636016485
+__export__.product_product_15595_5fcf1de9,0,G2623,139.00,NOGAN,Nogan Gravel MTB GO 26 inch Susp Electric Yellow,,309.00,26-26,8719636016492
+__export__.product_product_15596_6b09a935,0,G2631,186.51,NOGAN,Nogan Gravel MTB PRO 26 inch Sky Blue,,369.00,26-26,8719636016522
+__export__.product_product_15597_ade10b21,0,G2632,186.51,NOGAN,Nogan Gravel MTB PRO 26 inch Graphite Grey,,369.00,26-26,8719636016539
+__export__.product_product_15598_dee727a4,0,G2811L,208.00,NOGAN,Nogan Gravel MTB PRO L 27.5 inch Signal Red,,399.00,27-27,8719636023513
+__export__.product_product_15599_db786948,0,G2811M,208.00,NOGAN,Nogan Gravel MTB PRO M 27.5 inch Signal Red,,399.00,27-27,8719636016676
+__export__.product_product_15600_0db62697,0,G2811S,208.00,NOGAN,Nogan Gravel MTB PRO S 27.5 inch Signal Red,,399.00,27-27,8719636016546
+__export__.product_product_15601_cf815868,0,G2812L,208.00,NOGAN,Nogan Gravel MTB PRO L 27.5 inch Jet Black,,399.00,27-27,8719636023520
+__export__.product_product_15602_4b575fc8,0,G2812M,208.00,NOGAN,Nogan Gravel MTB PRO M 27.5 inch Jet Black,,399.00,27-27,8719636016683
+__export__.product_product_15603_81f042bd,0,G2812S,208.00,NOGAN,Nogan Gravel MTB PRO S 27.5 inch Jet Black,,399.00,27-27,8719636016553
+__export__.product_product_15604_053756e3,0,G2821L,218.00,NOGAN,Nogan Gravel MTB PRO+ L 27.5 inch Desert Sand,,409.00,27-27,8719636023537
+__export__.product_product_15605_ac0fe74a,0,G2821M,218.00,NOGAN,Nogan Gravel MTB PRO+ M 27.5 inch Desert Sand,,409.00,27-27,8719636016690
+__export__.product_product_15606_e5d7162f,0,G2821S,218.00,NOGAN,Nogan Gravel MTB PRO+ S 27.5 Desert Sand,,409.00,27-27,8719636016560
+__export__.product_product_15607_da07b6be,0,G2822L,218.00,NOGAN,Nogan Gravel MTB PRO+ L 27.5 inch Arctic White,,409.00,27-27,8719636023544
+__export__.product_product_15608_8218500a,0,G2822M,218.00,NOGAN,Nogan Gravel MTB PRO+ M 27.5 inch Arctic White,,409.00,27-27,8719636016706
+__export__.product_product_15609_4ba31397,0,G2822S,218.00,NOGAN,Nogan Gravel MTB PRO+ S 27.5 inch Arctic White,,409.00,27-27,8719636016577
+__export__.product_product_15610_0b68e9d1,0,G2823M,218.00,NOGAN,Nogan Gravel MTB PRO+ M 27.5 inch Jet Black,,409.00,27-27,8719636016713
+__export__.product_product_15611_52a1e95a,0,G2823S,218.00,NOGAN,Nogan Gravel MTB PRO+ 27.5 inch Jet Black,,409.00,27-27,8719636016584
+__export__.product_product_15612_113ca518,0,G2911M,208.00,NOGAN,Nogan Gravel MTB PRO M 29 inch Signal Red,,399.00,29-29,8719636016720
+__export__.product_product_15613_96e62153,0,G2911S,208.00,NOGAN,Nogan Gravel MTB PRO S 29 inch Signal Red,,399.00,29-29,8719636016591
+__export__.product_product_15614_245de743,0,G2912M,208.00,NOGAN,Nogan Gravel MTB PRO M 29 inch Jet Black,,399.00,29-29,8719636023476
+__export__.product_product_15615_779673d7,0,G2912S,208.00,NOGAN,Nogan Gravel MTB PRO S 29 inch Jet Black,,399.00,29-29,8719636016607
+__export__.product_product_15616_f72eeb60,0,G2921M,218.00,NOGAN,Nogan Gravel MTB PRO+ M 29 inch Desert Sand,,409.00,29-29,8719636023483
+__export__.product_product_15617_7baa1a1d,0,G2921S,218.00,NOGAN,Nogan Gravel MTB PRO+ S 29 inch Desert Sand,,409.00,29-29,8719636016614
+__export__.product_product_15618_59713a8a,0,G2922M,218.00,NOGAN,Nogan Gravel MTB PRO+ M 29 inch Arctic White,,409.00,29-29,8719636023490
+__export__.product_product_15619_1e2cc02f,0,G2922S,218.00,NOGAN,Nogan Gravel MTB PRO+ S 29 inch Arctic White,,409.00,29-29,8719636016621
+__export__.product_product_15620_c854902d,0,G2923M,218.00,NOGAN,Nogan Gravel MTB PRO+ M 29 inch Jet Black,,409.00,29-29,8719636023506
+__export__.product_product_15621_378f1c8c,0,G2923S,218.00,NOGAN,Nogan Gravel MTB PRO+ S 29 inch Jet Black,,409.00,29-29,8719636016638
+__export__.product_product_17180_3e9ab211,0,MV24-AQUA-BLUE,191.73,NOGAN,Nogan Cargo 24 inch AQUA BLUE,,379.00,24-24,8719636024831
+__export__.product_product_17151_5e23d229,0,MV24-ASTR-BLACK,0.00,NOGAN,Nogan Cargo 24 inch ASTEROID BLACK,,1.00,24-24,8719636024794
+__export__.product_product_17178_ecb6920c,0,MV24-FLAMINGO,191.73,NOGAN,Nogan Cargo 24 inch FLAMINGO,,379.00,24-24,8719636024817
+__export__.product_product_17177_081a2808,0,MV24-MATT-BLUE,191.73,NOGAN,Nogan Cargo 24 inch MATT BLUE,,379.00,24-24,8719636024800
+__export__.product_product_17179_1939b213,0,MV24-PASTEL-GREEN,191.73,NOGAN,Nogan Cargo 24 inch PASTEL GREEN,,379.00,24-24,8719636024824
+__export__.product_product_17187_b040aa34,0,MV24N3-AQUA-BLUE,221.18,NOGAN,Nogan Cargo 24 inch N3 AQUA BLUE,,429.00,24-24,8719636024909
+__export__.product_product_17181_2b56bcae,0,MV24N3-ARMY-GREEN,221.18,NOGAN,Nogan Cargo 24 inch N3 ARMY GREEN,,429.00,24-24,8719636024848
+__export__.product_product_17182_3fb43750,0,MV24N3-ASTR-BLACK,221.18,NOGAN,Nogan Cargo 24 inch N3 ASTEROID BLACK,,429.00,24-24,8719636024855
+__export__.product_product_17184_c846e37b,0,MV24N3-FLAMINGO,221.18,NOGAN,Nogan Cargo 24 inch N3 FLAMINGO,,429.00,24-24,8719636024879
+__export__.product_product_17183_dbf9944d,0,MV24N3-MATT-BLUE,221.18,NOGAN,Nogan Cargo 24 inch N3 MATT BLUE,,429.00,24-24,8719636024862
+__export__.product_product_17185_5ac61c3d,0,MV24N3-MIDN-BLUE,221.18,NOGAN,Nogan Cargo 24 inch N3 MIDNIGHT BLUE,,429.00,24-24,8719636024886
+__export__.product_product_17186_58abb4e9,0,MV24N3-PASTEL-GREEN,221.18,NOGAN,Nogan Cargo 24 inch N3 PASTEL GREEN,,429.00,24-24,8719636024893
+__export__.product_product_17194_3aa324da,0,MV26-AQUA-BLUE,195.53,NOGAN,Nogan Cargo 26 inch AQUA BLUE,,379.00,26-26,8719636024978
+__export__.product_product_17188_c27d6b5a,0,MV26-ARMY-GREEN,195.53,NOGAN,Nogan Cargo 26 inch ARMY GREEN,,379.00,26-26,8719636024916
+__export__.product_product_17189_e525fc74,0,MV26-ASTR-BLACK,195.53,NOGAN,Nogan Cargo 26 inch ASTEROID BLACK,,379.00,26-26,8719636024923
+__export__.product_product_17191_107f9088,0,MV26-FLAMINGO,195.53,NOGAN,Nogan Cargo 26 inch FLAMINGO,,379.00,26-26,8719636024947
+__export__.product_product_17190_1a466aaf,0,MV26-MATT-BLUE,195.53,NOGAN,Nogan Cargo 26 inch MATT BLUE,,379.00,26-26,8719636024930
+__export__.product_product_17192_a306fc06,0,MV26-MIDN-BLUE,195.53,NOGAN,Nogan Cargo 26 inch MIDNIGHT BLUE,,379.00,26-26,8719636024954
+__export__.product_product_17193_2e249888,0,MV26-PASTEL-GREEN,195.53,NOGAN,Nogan Cargo 26 inch PASTEL GREEN,,379.00,26-26,8719636024961
+__export__.product_product_17201_a8e852c1,0,MV26N3-AQUA-BLUE,224.98,NOGAN,Nogan Cargo 26 inch N3 AQUA BLUE,,429.00,26-26,8719636025043
+__export__.product_product_17195_66bed6c9,0,MV26N3-ARMY-GREEN,224.98,NOGAN,Nogan Cargo 26 inch N3 ARMY GREEN,,429.00,26-26,8719636024985
+__export__.product_product_17196_963f023c,0,MV26N3-ASTR-BLACK,224.98,NOGAN,Nogan Cargo 26 inch N3 ASTEROID BLACK,,429.00,26-26,8719636024992
+__export__.product_product_17198_0022ed12,0,MV26N3-FLAMINGO,224.98,NOGAN,Nogan Cargo 26 inch N3 FLAMINGO,,429.00,26-26,8719636025012
+__export__.product_product_17197_8c92663b,0,MV26N3-MATT-BLUE,224.98,NOGAN,Nogan Cargo 26 inch N3 MATT BLUE,,429.00,26-26,8719636025005
+__export__.product_product_17199_bb7f439a,0,MV26N3-MIDN-BLUE,224.98,NOGAN,Nogan Cargo 26 inch N3 MIDNIGHT BLUE,,429.00,26-26,8719636025029
+__export__.product_product_17200_468c6c5d,0,MV26N3-PASTEL-GREEN,224.98,NOGAN,Nogan Cargo 26 inch N3 PASTEL GREEN,,429.00,26-26,8719636025036
+__export__.product_product_17143_8eca92f9,0,NR121-ARMY-GREEN,48.02,NOGAN,NOGAN RUMBLE 12 ARMY GREEN,,145.00,12-12,8719636025111
+__export__.product_product_17144_665ea732,0,NR122-BLACK,48.02,NOGAN,NOGAN RUMBLE 12 BLACK,,145.00,12-12,8719636025128
+__export__.product_product_17145_75928bd6,0,NR141-ARMY-GREEN,49.13,NOGAN,NOGAN RUMBLE 14 ARMY GREEN,,149.00,14-14,8719636025135
+__export__.product_product_17146_df19482a,0,NR142-BLACK,49.13,NOGAN,NOGAN RUMBLE 14 BLACK,,149.00,14-14,8719636025142
+__export__.product_product_17147_4a792fca,0,NR161-ARMY-GREEN,52.08,NOGAN,NOGAN RUMBLE 16 ARMY GREEN,,159.00,16-16,8719636025159
+__export__.product_product_17148_ace30010,0,NR162-BLACK,52.08,NOGAN,NOGAN RUMBLE 16 BLACK,,159.00,16-16,8719636025166
+__export__.product_product_17149_3adfe56b,0,NR181-ARMY-GREEN,55.21,NOGAN,NOGAN RUMBLE 18 ARMY GREEN,,169.00,18-18,8719636025173
+__export__.product_product_17150_a91da879,0,NR182-BLACK,55.21,NOGAN,NOGAN RUMBLE 18 BLACK,,169.00,18-18,8719636025180
+__export__.product_product_15511_8a3242e4,0,V20-AQUA-ROSE,156.85,VALETTA,Valetta Cargo 20 Aqua Rose,,369.00,20-20,8719636022882
+__export__.product_product_15512_dd89fdab,0,V20-ASTR-BLACK,181.08,VALETTA,Valetta Cargo 20 Asteroid Black,,369.00,20-20,8719636022899
+__export__.product_product_15513_23435148,0,V20-FLAMINGO,181.08,VALETTA,Valetta Cargo 20 Matt Flamingo,,369.00,20-20,8719636022912
+__export__.product_product_15514_d7928762,0,V20-MATT-BLUE,181.08,VALETTA,Valetta Cargo 20 Matt Blue,,369.00,20-20,8719636022875
+__export__.product_product_15515_becf077e,0,V20-PASTEL-GREEN,181.08,VALETTA,Valetta Cargo 20 Pastel Green,,369.00,20-20,8719636022905
+__export__.product_product_15516_f8fe28ad,0,V20-ROSE-MINT,156.85,VALETTA,Valetta Cargo 20 Rose Mint,,369.00,20-20,8719636022929
+__export__.product_product_15518_8fd2a2d2,0,V22-AQUA-ROSE,159.67,VALETTA,Valetta Cargo 22 Aqua Rose,,369.00,22-22,8719636022820
+__export__.product_product_15517_73be6353,0,V22-ASTR-BLACK,159.67,VALETTA,Valetta Cargo 22 Asteroid Black,,369.00,22-22,8719636022837
+__export__.product_product_15519_6516191f,0,V22-FLAMINGO,159.67,VALETTA,Valetta Cargo 22 Matt Flamingo,,369.00,22-22,8719636022851
+__export__.product_product_15520_5e41def8,0,V22-MATT-BLUE,159.67,VALETTA,Valetta Cargo 22 Matt Blue,,369.00,22-22,8719636022813
+__export__.product_product_15521_2dacf20b,0,V22-PASTEL-GREEN,159.88,VALETTA,Valetta Cargo 22 Pastel Green,,369.00,22-22,8719636022844
+__export__.product_product_15522_10064215,0,V22-ROSE-MINT,159.67,VALETTA,Valetta Cargo 22 Rose Mint,,369.00,22-22,8719636022868
+__export__.product_product_15523_22ccedd0,0,V22N3-AQUA-ROSE,192.29,VALETTA,Valetta Cargo 22 N3 Aqua Rose,,419.00,22-22,8719636022622
+__export__.product_product_15524_986490a7,0,V22N3-ASTR-BLACK,189.72,VALETTA,Valetta Cargo 22 N3 Asteroid Black,,419.00,22-22,8719636022639
+__export__.product_product_15525_d7f9d9bf,0,V22N3-FLAMINGO,194.59,VALETTA,Valetta Cargo 22 N3 Matt Flamingo,,419.00,22-22,8719636022653
+__export__.product_product_15526_2b7d160a,0,V22N3-MATT-BLUE,193.47,VALETTA,Valetta Cargo 22 N3 Matt Blue,,419.00,22-22,8719636022615
+__export__.product_product_15527_a7e4e0f2,0,V22N3-PASTEL-GRE,189.97,VALETTA,Valetta Cargo 22 N3 Pastel Green,,419.00,22-22,8719636022646
+__export__.product_product_15528_dbe031fa,0,V22N3-ROSE-MINT,194.59,VALETTA,Valetta Cargo 22 N3 Rose Mint,,419.00,22-22,8719636022660
+__export__.product_product_15529_ba78aa46,0,V24-AQUA-BLUE,191.73,VALETTA,Valetta Cargo 24 Aqua Blue,,379.00,24-24,8719636022745
+__export__.product_product_15530_b257f5a4,0,V24-ARMY-GREEN,163.43,VALETTA,Valetta Cargo 24 Army Green,,379.00,24-24,8719636022783
+__export__.product_product_15531_f51723fe,0,V24-ASTR-BLACK,191.73,VALETTA,Valetta Cargo 24 Asteroid Black,,379.00,24-24,8719636022769
+__export__.product_product_15532_bdc017eb,0,V24-FLAMINGO,191.73,VALETTA,Valetta Cargo 24 Matt Flamingo,,379.00,24-24,8719636022806
+__export__.product_product_15533_7dc163c5,0,V24-MATT-BLUE,191.73,VALETTA,Valetta Cargo 24 Matt Blue,,379.00,24-24,8719636022752
+__export__.product_product_15534_4eb0d793,0,V24-MIDN-BLUE,163.43,VALETTA,Valetta Cargo 24 Midnight Blue,,379.00,24-24,8719636022776
+__export__.product_product_15535_11dc1f2d,0,V24-PASTEL-GREEN,174.00,VALETTA,Valetta Cargo 24 Pastel Green,,379.00,24-24,8719636022790
+__export__.product_product_15536_7a91d958,0,V24N3-AQUA-BLUE,221.18,VALETTA,Valetta Cargo 24 N3 Aqua Blue,,429.00,24-24,8719636022547
+__export__.product_product_15537_181930ab,0,V24N3-ARMY-GREEN,221.18,VALETTA,Valetta Cargo 24 N3 Army Green,,429.00,24-24,8719636022585
+__export__.product_product_15538_ca3a704a,0,V24N3-ASTR-BLACK,221.18,VALETTA,Valetta Cargo 24 N3 Asteroid Black,,429.00,24-24,8719636022561
+__export__.product_product_15539_6a28b489,0,V24N3-FLAMINGO,221.18,VALETTA,Valetta Cargo 24 N3 Matt Flamingo,,429.00,24-24,8719636022608
+__export__.product_product_15540_92d27b11,0,V24N3-MATT-BLUE,205.00,VALETTA,Valetta Cargo 24 N3 Matt Blue,,429.00,24-24,8719636022554
+__export__.product_product_15541_6a788e53,0,V24N3-MIDN-BLUE,221.18,VALETTA,Valetta Cargo 24 N3 Midnight Blue,,429.00,24-24,8719636022578
+__export__.product_product_15542_d080d1f5,0,V24N3-PASTEL-GRE,205.00,VALETTA,Valetta Cargo 24 N3 Pastel Green,,429.00,24-24,8719636022592
+__export__.product_product_15543_a718c0bd,0,V26-AQUA-BLUE,195.53,VALETTA,Valetta Cargo 26 Aqua Blue,,379.00,26-26,8719636022677
+__export__.product_product_15544_7985b817,0,V26-ARMY-GREEN,195.53,VALETTA,Valetta Cargo 26 Army Green,,379.00,26-26,8719636022738
+__export__.product_product_15545_2601f8b6,0,V26-ASTR-BLACK,195.53,VALETTA,Valetta Cargo 26 Asteroid Black,,379.00,26-26,8719636022691
+__export__.product_product_15546_eeb140b9,0,V26-FLAMINGO,178.00,VALETTA,Valetta Cargo 26 Matt Flamingo,,379.00,26-26,8719636022721
+__export__.product_product_15547_2d57e74e,0,V26-MATT-BLUE,195.53,VALETTA,Valetta Cargo 26 Matt Blue,,379.00,26-26,8719636022684
+__export__.product_product_15548_8f65fbcf,0,V26-MIDN-BLUE,223.98,VALETTA,Valetta Cargo 26 Midnight Blue,,379.00,26-26,8719636022707
+__export__.product_product_15549_940dd3ea,0,V26-PASTEL-GREEN,195.53,VALETTA,Valetta Cargo 26 Pastel Green,,379.00,26-26,8719636022714
+__export__.product_product_15550_866dcf58,0,V26N3-AQUA-BLUE,224.98,VALETTA,Valetta Cargo 26 N3 Aqua Blue,,429.00,26-26,8719636022479
+__export__.product_product_15551_dca451f0,0,V26N3-ARMY-GREEN,224.98,VALETTA,Valetta Cargo 26 N3 Army Green,,429.00,26-26,8719636022516
+__export__.product_product_15552_d03415b5,0,V26N3-ASTR-BLACK,224.98,VALETTA,Valetta Cargo 26 N3 Asteroid Black,,429.00,26-26,8719636022493
+__export__.product_product_15553_6bd873ee,0,V26N3-FLAMINGO,224.98,VALETTA,Valetta Cargo 26 N3 Matt Flamingo,,429.00,26-26,8719636022530
+__export__.product_product_15556_c1568081,0,V26N3-MATT-BLUE,224.98,VALETTA,Valetta Cargo 26 N3 Matt Blue,,429.00,26-26,8719636022486
+__export__.product_product_15557_fd2b3632,0,V26N3-MIDN-BLUE,224.98,VALETTA,Valetta Cargo 26 N3 Midnight Blue,,429.00,26-26,8719636022509
+__export__.product_product_15558_17241f90,0,V26N3-PASTEL-GRE,224.98,VALETTA,Valetta Cargo 26 N3 Pastel Green,,429.00,26-26,8719636022523
