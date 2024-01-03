@@ -1,8 +1,8 @@
 import * as React from 'react';
 import { styled } from '@mui/material/styles';
 import Button from '@mui/material/Button';
-import { FC, useState } from 'react';
-import { ImageList, ImageListItem } from '@mui/material';
+import { FC } from 'react';
+import { ImageList, ImageListItem, Typography } from '@mui/material';
 
 const VisuallyHiddenInput = styled('input')({
   clip: 'rect(0 0 0 0)',
@@ -16,22 +16,28 @@ const VisuallyHiddenInput = styled('input')({
   width: 1,
 });
 
-const ImagePicker: FC = () => {
-  const [selectedImages, setSelectedImages] = useState<string[]>([]);
+export type ImagePickerProps = {
+  value?: string[]; // Use a string or null to represent the selected Product's identifier
+  onChange: (value: string[]) => void; // Pass the identifier instead of the entire object
+};
+
+const ImagePicker: FC<ImagePickerProps> = ({value, onChange}) => {
+  // const [selectedImages, setSelectedImages] = useState<string[]>([]);
 
   const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     if (event.target.files) {
       const filesArray = Array.from(event.target.files);
       const urlsArray = filesArray.map((file) => URL.createObjectURL(file));
-      setSelectedImages(urlsArray);
+      onChange(urlsArray);
     }
   };
 
   return (
     <>
-      <ImageList cols={3} rowHeight={264} sx={{ maxWidth: 500, maxHeight: 450 }} variant="woven">
-        {selectedImages.map((item, index) => (
-          <ImageListItem key={index} sx={{ maxWidth: 300, objectFit: 'contain' }}>
+    <Typography variant="h6" sx={{marginBottom: 2}}>Afbeeldingen:</Typography>
+      <ImageList cols={3} sx={{ maxWidth: 500, maxHeight: 450 }} variant="woven">
+        {(value || []).map((item, index) => (
+          <ImageListItem key={index} sx={{ maxWidth: 300, objectFit: 'contain', marginY: 0 }}>
             <img
               srcSet={`${item}`}
               src={`${item}`}
