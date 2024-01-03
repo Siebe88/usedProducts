@@ -2,7 +2,7 @@ import * as React from 'react';
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
 import { FC } from 'react';
-import { Product } from '../../Routes/SearchProduct/SearchProduct';
+import { Product } from '../../util/useImportProducts';
 
 export type AutoCompleteInput = {
   value?: string | null; // Use a string or null to represent the selected Product's identifier
@@ -15,12 +15,13 @@ const AutoComplete: FC<AutoCompleteInput> = ({ value, onChange, options, getOpti
   return (
     <Autocomplete
       disablePortal
+      freeSolo
       id="combo-box-bike"
       options={options}
       value={value || ''} // Pass the identifier here
       sx={{ width: 300 }}
       getOptionLabel={getOptionLabel}
-      onChange={(_, newValue) => onChange(newValue ? (newValue as Product).eanCode : null)} // Send the identifier through onChange
+      onChange={(_, newValue) => onChange(newValue ? (newValue as Product).default_code : null)} // Send the identifier through onChange
       renderInput={(params) => <TextField {...params} label="Zoeken op naam" />}
     />
   );

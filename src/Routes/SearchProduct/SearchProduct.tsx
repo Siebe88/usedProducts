@@ -4,35 +4,7 @@ import AutoComplete from '../../Components/AutoComplete/AutoComplete';
 import ImagePicker from '../../Components/ImagePicker/ImagePicker';
 import Barcode from 'react-barcode';
 import { useReactToPrint } from 'react-to-print';
-
-export type Product = {
-  name: string;
-  code: string;
-  eanCode: string;
-  price: number;
-};
-
-const bikeItems: Product[] = [
-  {
-    name: 'Mountain Bike',
-    code: 'MTB001',
-    eanCode: '1234567890123',
-    price: 599.99,
-  },
-  {
-    name: 'Road Bike',
-    code: 'RDB002',
-    eanCode: '9876543210987',
-    price: 799.99,
-  },
-  {
-    name: 'Hybrid Bike',
-    code: 'HYB003',
-    eanCode: '5678901234567',
-    price: 499.99,
-  },
-  // Add more bike items here...
-];
+import { Product, useImportProducts } from '../../util/useImportProducts';
 
 export const Component = () => {
   const [value, setValue] = useState<Product | null>(null);
@@ -43,33 +15,42 @@ export const Component = () => {
     content: () => componentRef.current,
   });
 
+  const importedProducts = useImportProducts();
+  console.log(importedProducts);
+
+  console.log();
+
   return (
     <Box display={'flex'} flexDirection={'column'} rowGap={2}>
       <AutoComplete
-        value={value?.eanCode}
-        options={bikeItems}
+        value={value?.default_code}
+        options={importedProducts}
         onChange={(value) => {
-          const foundBike = bikeItems.find((item) => item.eanCode === value);
+          const foundBike = importedProducts.find((item) => item.default_code === value);
           setValue(foundBike || null);
         }}
         getOptionLabel={(option) => {
+          console.log({ option, type: typeof option });
           if (!option) return '';
-          if (typeof option === 'string') return bikeItems.find((item) => item.eanCode === option)?.name || '';
-          return (option as Product).name;
+          if (typeof option === 'string')
+            return importedProducts.find((item) => [item.default_code, item.name].includes(option))?.name || '';
+          return (
+            (option as Product).default_code + ' - ' + (option as Product).name + ' - ' + (option as Product).barcode
+          );
         }}
       />
       <Typography>Product naam: {value?.name}</Typography>
-      <Typography>Productcode: {value?.code}</Typography>
+      <Typography>Productcode: {value?.default_code}</Typography>
       {value && (
         <Box display={'flex'} ref={componentRef} flexDirection={'column'} rowGap={2}>
-          <Typography>EAN-code: {value?.eanCode}</Typography>
-          <Barcode value={value?.eanCode || ''} />
+          <Typography>EAN-code: {`${value?.barcode}-2-${randomCode}`}</Typography>
+          <Barcode value={`${value?.barcode}-2-${randomCode}`} />
           <Typography>Nieuwe Product naam: {value?.name}-used</Typography>
           <Typography>
-            Nieuwe Productcode: {value?.code}-{randomCode}
+            Nieuwe Productcode: {value?.default_code}-2-{randomCode}
           </Typography>
           <Box display={'flex'} columnGap={2} alignItems={'center'}>
-            <Typography>Nieuwprijs: {value?.price}</Typography>
+            <Typography>Nieuwprijs: {value?.lst_price}</Typography>
             <TextField label="Aangepaste prijs" />
           </Box>
           <TextField label="Toelichting:" multiline rows={4} />
